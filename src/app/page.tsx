@@ -46,7 +46,7 @@ export default function Home() {
           <div className="hero-image">
             <div className="profile-pic">
               <Image
-                src="/Profil.jpg"
+                src="/profil.jpg"
                 alt="Abdillah Noer Said"
                 width={280}
                 height={280}
