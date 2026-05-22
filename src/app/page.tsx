@@ -259,7 +259,7 @@ export default function Home() {
                 <span>Flutter</span>
                 <span>Machine Learning</span>
                 <span>TensorFlow Lite</span>
-                <span>Python</span>
+                <span>Dart</span>
               </div>
             </div>
           </div>
